@@ -52,7 +52,7 @@
 
 <a href="https://bruno-caramelo5.medium.com/" target="_blank"><img align="left" alt="Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/medium.svg" />
 <a href="https://www.linkedin.com/in/bruno-caramelo-souza-9b1b6910/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
-<a href="https://github.com/brunocaramelo" target="_blank"><img alt="Blog" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dev-badge.svg" /></a>
+<a href="https://github.com/brunocaramelo" target="_blank"><img alt="Blog" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" /></a>
 
 ##
 <p align="center">
