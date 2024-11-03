@@ -63,9 +63,7 @@
 <a href="https://www.linkedin.com/in/bruno-caramelo-souza-9b1b6910/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 <a href="https://github.com/brunocaramelo" target="_blank"><img alt="Blog" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" /></a>
 
-<a href="mailto:bruno.caramelo5@gmail.com" target="_blank">
-  <img alt="Blog" width="22px" src="https://github.com/astrit/css.gg/blob/main/icons/svg/mail-open.svg" />
-</a>
+<a href="mailto:bruno.caramelo5@gmail.com" target="_blank"><img alt="Blog" width="22px" src="https://www.iconsdb.com/icons/preview/white/mail-xxl.png" /></a>
 
 ##
 <p align="center">
