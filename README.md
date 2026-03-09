@@ -36,23 +36,7 @@
 </br>
 <div display="inline-block">
 
-    - Solid experience in Information Technology, in companies in the following sectors: finance/banking, investments, advertising, education, marketplaces, retail and others.
-
-    - Graduated in Information Systems from Faculdade Impacta and Post-Graduated in Software Engineering focused on SOA from UniBTA.
-
-    - Development of projects to automate activities and improve processes in order to reduce costs and task execution time.
-
-    - Creation and maintenance of critical systems with fault tolerance.
-
-    -Monitoring and reporting to senior management and departments on projects and deadlines.
-
-    Specialties: - Specialized in managing organizational change projects.
-    - Experience with Backend languages such as Java, PHP, NodeJS, SQL, NoSQL.
-    - Experience with frontend frameworks such as VueJS, React and Angular.
-    - Experience with asynchronous systems, messaging, parallelism, scalability.
-    - Experience with Devops and CI/CD.
-    - Experience with agile methodologies.
-    - Experience with technical leadership.
+  Senior Software Engineer with experience since 2009 designing and delivering mission-critical, high-availability systems across fintech, banking, education, healthcare, and investment sectors. Specialized in Domain-Driven Design (DDD), SOLID principles, clean architecture, and event-driven microservices. Built and modernized platforms processing 800,000+ daily requests and managing millions of records across distributed environments. Led cloud migrations to Azure and AWS, containerized workloads using Docker and Kubernetes, and implemented CI/CD pipelines with automated quality gates achieving 80%+ test coverage. Optimized databases handling terabytes of data weekly and architected multi-tenant ERP, CRM, and credit platforms supporting complex financial operations. Strong expertise in API design, distributed systems, observability, DevOps culture, and secure software delivery aligned with enterprise governance and compliance standards.
 
 </div>
 
