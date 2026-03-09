@@ -6,7 +6,7 @@
  
     I'm Bruno Caramelo Souza.
     Senior Software Engineer.
-    Active in the IT area since 2009.
+    Active in the IT area since 2008.
 
 
 ### 🖥️ Skills: 
