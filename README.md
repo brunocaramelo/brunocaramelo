@@ -5,11 +5,28 @@
  <h1 align="left">Bruno Caramelo Souza</h1>
  
     I'm Bruno Caramelo Souza.
-    Senior Software Engineer & Software Architect | Specialist in High-Volume, 
-    High-Availability Systems & Mission-Critical Microservices
+    Senior Software Engineer & Software Architect | 
+    High-Availability & Mission-Critical Microservices
     
     Active in the IT area since 2008.
+    Specialized in:
 
+    - Laravel Enterprise
+    - Java / Spring Boot
+    - Microservices
+    - Kubernetes
+    - Azure & AWS
+    - High Performance Systems
+    
+    ## Core Expertise
+    
+    Architecture
+    Cloud Native
+    Microservices
+    Performance Engineering
+    Domain Driven Design
+    Event Driven Architecture
+    Platform Engineering
 
 ### 🖥️ Skills: 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
