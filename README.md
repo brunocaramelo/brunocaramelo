@@ -5,7 +5,7 @@
  <h1 align="left">Bruno Caramelo Souza</h1>
  
     I'm Bruno Caramelo Souza.
-    Senior Software Engineer.
+    Senior Software Engineer & Software Architect | Specialist in High-Volume, High-Availability Systems & Mission-Critical Microservices
     Active in the IT area since 2008.
 
 
@@ -36,26 +36,22 @@
 </br>
 <div display="inline-block">
 
-  - Solid experience in Information Technology, in companies in the following sectors: finance/banking, investments, advertising, education, marketplaces, retail and others.
-
-    - Graduated in Information Systems from Faculdade Impacta and Post-Graduated in Software Engineering focused on SOA from UniBTA.
-
-    - Development of projects to automate activities and improve processes in order to reduce costs and task execution time.
-
-    - Creation and maintenance of critical systems with fault tolerance.
-
-    -Monitoring and reporting to senior management and departments on projects and deadlines.
-
-    Specialties: - Specialized in managing organizational change projects.
-    - Experience with Backend languages such as Java, PHP, NodeJS, SQL, NoSQL.
-    - Experience with frontend frameworks such as VueJS, React and Angular.
-    - Experience with asynchronous systems, messaging, parallelism, scalability.
-    - Experience with Devops and CI/CD.
-    - Experience with agile methodologies.
-    - Experience with technical leadership.
-  Senior Software Engineer with experience since 2009 designing and delivering mission-critical, high-availability systems across fintech, banking, education, healthcare, and investment sectors. Specialized in Domain-Driven Design (DDD), SOLID principles, clean architecture, and event-driven microservices. Built and modernized platforms processing 800,000+ daily requests and managing millions of records across distributed environments. Led cloud migrations to Azure and AWS, containerized workloads using Docker and Kubernetes, and implemented CI/CD pipelines with automated quality gates achieving 80%+ test coverage. Optimized databases handling terabytes of data weekly and architected multi-tenant ERP, CRM, and credit platforms supporting complex financial operations. Strong expertise in API design, distributed systems, observability, DevOps culture, and secure software delivery aligned with enterprise governance and compliance standards.
-
-
+Working in development for over 18 years designing and delivering mission-critical, high-availability systems across fintech, banking, education, healthcare, and investment sectors.
+I specialize in Domain-Driven Design (DDD), SOLID principles, clean architecture, and event-driven microservices. I have built and modernized platforms processing 1.5 million+ daily requests and managing millions of records in distributed environments. I led cloud migrations to Azure and AWS, containerized workloads with Docker and Kubernetes, and implemented CI/CD pipelines with automated quality gates and Veracode security scanning, achieving 80%+ test coverage.
+My expertise includes optimizing terabyte-scale databases, architecting multi-tenant ERP, CRM, and credit platforms, designing RESTful APIs, distributed systems, observability, and secure software delivery aligned with enterprise governance and compliance standards. Proficient in Java Spring Boot, Laravel, PHP, Node.js, RabbitMQ, Redis, Pentaho, and Terraform.
+Key Achievements
+• Reduced infrastructure costs by 45% and increased performance/stability by 110% (AKS + Terraform)
+• Built systems handling 1.5 million+ daily requests with 99% uptime
+• Delivered ETL pipelines that cut manual processes by 70%
+ 
+Specialties: - Specialized in managing organizational change projects.
+    • Experience with Backend languages such as Java, PHP, NodeJS, SQL, NoSQL.
+    • Experience with frontend frameworks such as VueJS, React and Angular.
+    • Experience with asynchronous systems, messaging, parallelism, scalability.
+    • Experience with Devops and CI/CD.
+    • Experience with agile methodologies.
+    • Experience with technical leadership.
+ 
 </div>
 
 
