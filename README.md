@@ -67,7 +67,8 @@ Key Achievements
 
 • Delivered ETL pipelines that cut manual processes by 70%
  
-Specialties: - Specialized in managing organizational change projects.
+- Specialized in managing organizational change projects.
+
 • Experience with Backend languages such as Java, PHP, NodeJS, SQL, NoSQL.
 
 • Experience with frontend frameworks such as VueJS, React and Angular.
